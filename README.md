@@ -58,4 +58,4 @@ $$BCE(z_i, y_i) = -y_i \log \sigma(z_i) - (1-y_i) \log (1-\sigma(z_i))$$
 
 ## 🔗 External Links
 - [Notion: 상세 연구 노트](https://www.notion.so/KUBIG-Project-2f43fd1d8fdd803daf8fcb5846e14268?source=copy_link)
-- [Project Presentation (PDF)](./docs/CV3팀_발표자료_3DOP.pdf) # 2번에서 만든 docs 폴더 안에 PPT를 PDF로 넣어두면 좋아!
+- [Project Presentation (PDF)](CV3팀_발표자료_3DOP.pdf)
